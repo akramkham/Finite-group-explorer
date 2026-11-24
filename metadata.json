@@ -1,0 +1,6 @@
+{
+  "name": "Finite Group Explorer",
+  "description": "Finite Abelian, Permutation & Dihedral Group Explorer — interactive abstract algebra software for computing group structures, Cayley tables, element orders, generators, permutations, symmetries, and subgroup lattices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
